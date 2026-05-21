@@ -121,10 +121,10 @@ claude_desktop_config.json
         "-y",
         "@atlassian/remote-mcp"
       ],
-      "env": {
+       "env": {
         "ATLASSIAN_BASE_URL": "https://productsquads-l1.atlassian.net",
-        "ATLASSIAN_EMAIL": "your-email@example.com",
-        "ATLASSIAN_API_TOKEN": "your_api_token"
+        "ATLASSIAN_EMAIL": "bhakti.upadhyay@productsquads.co",
+        "ATLASSIAN_API_TOKEN": "ATATT3xFfGF0MgeTpJTUwq_9F9MFmsyqS0dyEmcyQpQ_7lWiQ_3rmWdKJeujPa2kXzAAD3qghDnfyw-ZAeldh59YvQdGti_RzuAJIyLHZzlhAyTQXVm4RE7PwOSidljf3Ujc0QTxN3MtmSwrH_Y1Ygl8lahetaP5rHRhEGZULAxjN8cZv6R5VfQ=B7FCC1B2"
       }
     }
   }
